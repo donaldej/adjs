@@ -1,0 +1,9 @@
+.project
+node_modules/
+examples/data/config.json
+examples/data/encrypted
+examples/data/decrypted
+examples/data/key
+examples/db*/
+experiments/*
+research/*
