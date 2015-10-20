@@ -24,9 +24,6 @@ Once installed, you can include module and try it out. Included a couple example
 
 Contributers are welcome to help out by adding more functionality, optimizing some of my code or by just helping test and research.
 
-Dillinger uses Gulp + Webpack for fast developing.
-Make a change in your file and instantanously see your updates!
-
 ### Currently Working
  - signIn method - Authenticate with your registered email and password.
  - getUserInfo method - Retrieve user settings as well as the websocket urls.
