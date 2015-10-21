@@ -11,10 +11,6 @@ I have not pushed this to npm yet so you need to manually set this up.
 
 ```sh
 $ git clone https://github.com/donaldej/adjs.git
-```
-
-```sh
-$ git clone [git-repo-url] dillinger
 $ cd adjs
 $ npm install
 ```
